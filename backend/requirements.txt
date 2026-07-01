@@ -1,0 +1,6 @@
+fastapi>=0.115,<1.0
+uvicorn[standard]==0.24.0
+sqlalchemy==2.0.23
+bcrypt==4.1.2
+pyjwt==2.8.0
+python-multipart==0.0.6

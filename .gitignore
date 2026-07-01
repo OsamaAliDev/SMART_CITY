@@ -1,0 +1,10 @@
+﻿__pycache__/
+*.pyc
+.env
+nexus_city.db
+.DS_Store
+backend/venv/
+backend/__pycache__/
+backend/routers/__pycache__/
+*.pyc
+backend/nexus_city.db
